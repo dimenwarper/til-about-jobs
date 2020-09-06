@@ -18,15 +18,15 @@ Small, discrete tips/bits of info. Many are things I'd wish I knew or did in hin
 
 * Network as a grad student -- give at least one talk/poster in a non-local venue a year
 * Ask to write grants with your and other PIs, the more collaborators the better
-* To better your chances for getting a good postdoc, have your advisor write to your prospective postdoc advisor, many PIs I know say "I'm not taking postdocs *unless their advisor calls me first*.
+* To better your chances for getting a good postdoc, have your advisor write to your prospective postdoc advisor, many PIs I know say "I'm not taking postdocs *unless their advisor calls me first*".
 * If you're shooting for faculty jobs after, consider the track record of your prospective advisor for helping postdocs land faculty jobs
-* In some universities/departments (but not all), it is a plus to do grad school in one place/country but postdoc in another, check your faculty
+* In some universities/departments (but not all), it is a plus to do grad school in one place/country but postdoc in another, check the dept's faculty
 * Try arriving at your postdoc with a postdoc grant/fellowship in place, you can start applying the last year of your PhD.
 * Try getting super postdocs if possible -- semi-independent positions with good funding  (Harvard fellows, Miller felllowship, Whitehead, Marie-Curie).
 
 ### Faculty jobs
 
-Though I never applied to faculty jobs, these are some things I've typically heard from friends and family that have gone that route
+Though I've never applied to faculty jobs, these are some things I've typically heard from friends and family that have gone that route
 
 * Know your hiring committee -- check your network to see who has hiring decision influence wherever you're applying
 * Don't underestimate the power of local networks -- if you want a job in your home country but have been out of it for grad school/postdoc, retain connections back home to avoid being the outsider
