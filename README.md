@@ -28,7 +28,7 @@ Though I never applied to faculty jobs, these are some things I've typically hea
 * Know your hiring committee -- check your network to see who has hiring decision influence wherever you're applying
 * Don't underestimate the power of local networks -- if you want a job in your home country but have been out of it for grad school/postdoc, retain connections back home to avoid being the outsider
 * Start path to independence early -- know what the grant path is for your field/country (for bio in US it's typically applying to a K99 grant)
-* Write grants *excatly* as you are expected to, check resources like [Russ Altman's tips for grant writing](http://bytesizebio.net/2012/07/19/ismb-2012-vignettes-pt-1-grant-writing-tips/)
+* Write grants *exactly* as you are expected to, check resources like [Russ Altman's tips for grant writing](http://bytesizebio.net/2012/07/19/ismb-2012-vignettes-pt-1-grant-writing-tips/)
 * Preprints are your friend
 * Know your competition : "70% have a first-author paper in Cell, Nature, or Science, 22% have a K99, and 30% have unpublished work on bioRxiv."  --> from [twitter thread](https://twitter.com/JSheltzer/status/1293234892063506433)
 
