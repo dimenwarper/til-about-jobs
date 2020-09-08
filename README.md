@@ -1,6 +1,6 @@
 # Things I've learned about jobs (searching, career strategy, etc)
 
-Small, discrete tips/bits of info. Many are things I'd wish I knew or did in hindsight.
+Small, discrete tips/bits of info. Many are things I'd wish I knew or did in hindsight. Drop a PR if you have a good tip or disagree with some of these.
 
 ## General
 
